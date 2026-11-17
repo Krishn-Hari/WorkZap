@@ -49,7 +49,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Captain-jack42/WorkZap.git
+git clone https://github.com/Krishn-Hari/WorkZap.git
 cd WorkZap
 ```
 
@@ -153,7 +153,7 @@ WorkZap/
 ---
 
 ### Contact
-**Maintainer**: Captain-jack42 on GitHub  
+**Maintainer**: [Krishn-Hari](https://github.com/Krishn-Hari) on GitHub  
 Open an issue or submit a pull request for questions, bug reports, or feature suggestions.
 
 ---
